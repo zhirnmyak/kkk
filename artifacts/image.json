@@ -1,0 +1,9 @@
+{
+  "image": "maxiimka:hackathon-2026",
+  "id": "sha256:0df301535f0c5ef2f60406d221bb6215b421bd6a162818650ab812ab6f10bfcb",
+  "platform": "linux/amd64",
+  "archive": "maxiimka-hackathon-2026-linux-amd64.tar.gz",
+  "archive_bytes": 1152640425,
+  "sha256": "eff6ca8529788dbb802c2dc32ef3a9116ad8b3e821002614437c37635c740531",
+  "docker_save_bytes": 1094612992
+}

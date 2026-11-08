@@ -1,0 +1,16 @@
+{
+  "max_polling_used": false,
+  "messages_sent": false,
+  "llm_generation_used": false,
+  "max_api": {
+    "ok": false,
+    "error_type": "RuntimeError",
+    "http_status": null,
+    "message": "не достучаться до https://platform-api2.max.ru (ConnectError)"
+  },
+  "provider_models": {
+    "ok": false,
+    "error_type": "RuntimeError",
+    "message": "Не удалось подключиться: проверь адрес API и сеть"
+  }
+}

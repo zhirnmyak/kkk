@@ -1,0 +1,18 @@
+name: maxiimka
+services:
+  bot:
+    image: maxiimka:hackathon-2026
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: maxiimka
+    init: true
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - maxiimka-data:/app/data
+    stop_grace_period: 30s
+volumes:
+  maxiimka-data:
+

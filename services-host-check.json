@@ -1,0 +1,13 @@
+{
+  "platform": "Windows host",
+  "max_polling_used": false,
+  "messages_sent": false,
+  "llm_generation_used": false,
+  "max_api": {
+    "ok": true
+  },
+  "provider_models": {
+    "ok": true,
+    "selected_model_present": true
+  }
+}

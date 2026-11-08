@@ -1,0 +1,10 @@
+{
+  "image": "maxiimka:hackathon-2026",
+  "api_key_replacement": true,
+  "stored_key_hidden": true,
+  "persists_after_container_recreation": true,
+  "bundled_default_preserved": true,
+  "panel_available_with_invalid_llm_key": true,
+  "live_max_polling": false,
+  "external_llm_calls": false
+}

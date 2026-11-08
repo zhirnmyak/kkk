@@ -1,0 +1,2 @@
+# Windows command scripts must keep CRLF when checked out.
+*.cmd text eol=crlf

@@ -1,0 +1,18 @@
+{
+  "image": "maxiimka:hackathon-2026",
+  "http": true,
+  "panel": true,
+  "docker_local_auth": true,
+  "foreign_origin_rejected": true,
+  "forwarded_headers_rejected": true,
+  "max_polling_disabled_for_check": true,
+  "documents": {
+    "pdf_fragments": 1,
+    "txt_indexed": true,
+    "semantic_search": true,
+    "ocr_recognized": true,
+    "configured_keys_present": true,
+    "unneeded_folders_absent": true,
+    "linux_venv_present": true
+  }
+}
